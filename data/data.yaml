@@ -1,0 +1,6 @@
+train: ./MyData/split/images/train
+val: ./MyData/split/images/valid
+test: ./MyData/split/images/test
+
+nc: 1
+names: ['hole' ]
